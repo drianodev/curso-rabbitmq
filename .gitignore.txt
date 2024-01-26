@@ -1,3 +1,0 @@
-consumidor-estoque/*
-consumidor-preco/*
-estoquepreco/*
