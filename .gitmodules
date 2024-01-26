@@ -1,0 +1,12 @@
+[submodule "consumidor-estoque"]
+	path = consumidor-estoque
+	url = https://github.com/drianodev/consumidor-estoque.git
+[submodule "consumidor-preco"]
+	path = consumidor-preco
+	url = https://github.com/drianodev/consumidor-preco.git
+[submodule "librabbitmq"]
+	path = librabbitmq
+	url = https://github.com/drianodev/librabbitmq.git
+[submodule "estoquepreco"]
+	path = estoquepreco
+	url = https://github.com/drianodev/estoquepreco-api.git
