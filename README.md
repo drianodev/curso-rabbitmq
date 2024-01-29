@@ -13,6 +13,12 @@ Este repositório faz parte de um curso que ensina a criar um microserviço em J
 3. **Consumidor em Node.js:**
    - Criado outro consumidor em Node.js para diversificar as tecnologias utilizadas.
 
+![Produto](produto.png)
+
+## Configuração do Prefetch Count do RabbitMQ
+
+Adicionada configuração do Prefetch Count no RabbitMQ para otimizar o processamento das mensagens.
+
 ## Submódulos
 
 Este repositório utiliza submódulos para organizar os diferentes componentes do projeto:
